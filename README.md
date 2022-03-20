@@ -14,6 +14,6 @@ Based on the results its clear that in 2017 all stocks except for "TERP" gave a 
     * On the other hand, if refactoring the code only changes the processing time bu a negligible rate, then the time that was invested in doing so would have been wasted, especially if that came with having to debug new errors. 
 
 
-How do these pros and cons apply to refactoring the original VBA script?
+2. How do these pros and cons apply to refactoring the original VBA script?
    * Refactoring our original script helped to reduce the processing time by a significant rate. If the dataset were to be expanded the code would be easily adaptable and would also run more efficiently.
    * In real values, saving 2 tenths of a second would not be worth the time invested in refactoring this code if that was the main purpose of doing so. It is basically unnoticable, even if it were to be refined further.
