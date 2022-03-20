@@ -9,5 +9,7 @@ Based on the results its clear that in 2017 all stocks except for "TERP" gave a 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/99148657/159142324-69b3eaff-d5af-4d5b-ad3d-715dc69e2d3c.PNG)    ![VBA_Challenge_2018](https://user-images.githubusercontent.com/99148657/159142390-3e116a08-9470-4bfa-8b0e-478500375f09.PNG)
 
 ## Summary
-
+1. What are the advantages or disadvantages of refactoring code?
+    *Refactoring code is an important process when working with large datasets, limited computing power or complex programs. It is important to design the project in    such a way that the code runs as efficiently as it can when any one of these issues are present. Refactoring code is also useful for making the code more readable
+    * On the other hand, if refactoring the code only changes the processing time bu a negligible rate, then the time that was invested in doing so would have been wasted, especially if that came with having to debug new errors. 
 
